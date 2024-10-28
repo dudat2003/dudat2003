@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,9 +48,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dudat2003/dudat2003/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=dudat2003.dudat2003&left_color=azure"  />
 
 ###
