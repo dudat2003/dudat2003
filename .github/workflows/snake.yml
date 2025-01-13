@@ -18,11 +18,29 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v3
       - name: generate snake.svg
+
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#000000,#1C8BE9,#1D8BE9,#28A745,#28B745,#FF0000
+          settings: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "colors": {
+                "color1": "#000000",
+                "color2": "#1C8BE9",
+                "color3": "#28A745",
+                "color4": "#FF0000"
+              },
+              "maxDays": 365,
+              "minContributions": 1,
+              "includePrivateContributions": true,
+              "ignoreCommitTypes": []
+            }
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

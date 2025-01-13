@@ -48,5 +48,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/dudat2003/dudat2003/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/dudat2003/dudat2003/blob/output/snake.svg)
 ###
