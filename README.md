@@ -40,7 +40,7 @@
   <a href="https://www.facebook.com/dudinhdat.03" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://t.me/oedke" target="_blank">
+  <a href="https://t.me/dudinhdat_03" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="80" height="40" alt="telegram logo"  />
   </a>
 </div>
