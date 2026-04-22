@@ -29,23 +29,26 @@
 
 <div align="left">
   <a href="mailto:dudinhdat.03@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" alt="gmail logo" />
   </a>
+   <img width="12" />
   <a href="https://www.linkedin.com/in/dudinhdat03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo" />
   </a>
+   <img width="12" />
   <a href="https://www.instagram.com/dudinhdat_03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="30" alt="instagram logo" />
   </a>
+   <img width="12" />
   <a href="https://www.facebook.com/dudat.1412" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="30" alt="facebook logo" />
   </a>
+   <img width="12" />
   <a href="https://t.me/dudinhdat_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="80" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="30" alt="telegram logo" />
   </a>
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/dudat2003/dudat2003/output/snake.svg" alt="Snake animation" />
 
